@@ -1,1 +1,10 @@
-
+<bug_report>
+  <summary>Кнопка 'отправить' в окне чата не работает</summary>
+  <steps>
+    <step_1>Открыть окно чата</step_1>
+    <step_2>Ввести текст</step_2>
+    <step_3>Нажать кнопку отправить</step_3>
+  </steps>
+  <result>Ничего не произошло, текст не отправлен</result>
+  <expected_result>Текст отправлен</expected_result>
+</bug_report>
